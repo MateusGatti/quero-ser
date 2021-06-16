@@ -1,0 +1,16 @@
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\bin\Debug\net5.0\DesafioDojo2.exe
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\bin\Debug\net5.0\DesafioDojo2.deps.json
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\bin\Debug\net5.0\DesafioDojo2.runtimeconfig.json
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\bin\Debug\net5.0\DesafioDojo2.runtimeconfig.dev.json
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\bin\Debug\net5.0\DesafioDojo2.dll
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\bin\Debug\net5.0\ref\DesafioDojo2.dll
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\bin\Debug\net5.0\DesafioDojo2.pdb
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\obj\Debug\net5.0\DesafioDojo2.csprojAssemblyReference.cache
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\obj\Debug\net5.0\DesafioDojo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\obj\Debug\net5.0\DesafioDojo2.AssemblyInfoInputs.cache
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\obj\Debug\net5.0\DesafioDojo2.AssemblyInfo.cs
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\obj\Debug\net5.0\DesafioDojo2.csproj.CoreCompileInputs.cache
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\obj\Debug\net5.0\DesafioDojo2.dll
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\obj\Debug\net5.0\ref\DesafioDojo2.dll
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\obj\Debug\net5.0\DesafioDojo2.pdb
+C:\Users\mtgat\Documents\Projetos\Intelitrader\quero-ser\DesafioDojo2\obj\Debug\net5.0\DesafioDojo2.genruntimeconfig.cache
