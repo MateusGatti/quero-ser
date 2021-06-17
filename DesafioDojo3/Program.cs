@@ -6,8 +6,8 @@ namespace DesafioDojo3
     {
         static void Main(string[] args)
         {
-            // Desafio DojoPuzzle FizzBuzz parte 2
-            // https://dojopuzzles.com/problems/fizzbuzz-parte-2/
+            // Desafio DojoPuzzle Caixa eletrônico
+            // https://dojopuzzles.com/problems/caixa-eletronico/
 
             int qtd100 = 0;
             int qtd50 = 0;
